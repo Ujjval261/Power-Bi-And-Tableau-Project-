@@ -1,0 +1,48 @@
+# 🚦 Smart City Interactive Power BI Dashboard
+
+This is a comprehensive **Power BI dashboard project** designed to analyze key urban metrics for smart city development — from **air quality** to **transportation trends** and **public safety** indicators.
+
+---
+
+## 📊 Dashboard Overview
+
+The report contains **3 fully dynamic pages**, each offering unique insights:
+
+### 🟩 Page 1 – City Overview Dashboard
+- City-wise AQI comparison (Map + Column Chart)
+- Total Accidents, Vehicles, and Pollution Levels (KPI Cards)
+- Transport usage by mode (Donut chart)
+- Filters for city & year (dropdown slicers)
+
+### 🟨 Page 2 – Pollution Analysis
+- AQI trend over time (Line chart)
+- Pollution Source breakdown (Pie chart)
+- AQI category per city (Table with DAX classification)
+
+### 🟦 Page 3 – Transport & Traffic Analysis
+- Usage by transport mode over years (Stacked column chart)
+- Vehicle count trend (Line chart)
+- *Ribbon chart* showing top accident-prone cities over time
+- *Decomposition tree* exploring usage by year → city → mode
+- Tree map showing transport usage share
+
+---
+
+## 🔁 Features
+
+- ✅ Fully interactive with slicers, cross-filtering & bookmarks  
+- ✅ DAX-powered measures for dynamic KPIs and title updates  
+- ✅ Drill-through to city-level detail pages  
+- ✅ Tooltip-based mini charts (for hover-based insights)  
+- ✅ Responsive design for web & mobile view  
+
+---
+
+## 🧠 Built With
+
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Power Query for data cleaning  
+- Smart layout design with advanced visuals  
+- CSV data 
+
