@@ -1,0 +1,701 @@
+Date,City,Zone,AQI,Vehicle Count,Accidents,Transport Mode,Usage Count,Pollution Source
+2023-07-29,Bangalore,North,207,104125,1,Private Vehicle,131567,Construction
+2023-05-19,Mumbai,North,372,140181,25,Private Vehicle,132690,Vehicular
+2024-06-05,Bangalore,West,282,797161,11,Metro,56359,Dust
+2023-11-29,Delhi,North,205,180853,15,Bus,158853,Dust
+2023-02-10,Mumbai,East,124,582809,12,Private Vehicle,195512,Dust
+2023-10-08,Delhi,South,217,291930,2,Private Vehicle,162577,Vehicular
+2024-02-29,Bangalore,South,192,586057,10,Metro,248214,Vehicular
+2023-02-19,Mumbai,West,107,393621,14,Private Vehicle,139589,Vehicular
+2024-03-28,Delhi,North,117,596040,23,Bus,164117,Industrial
+2023-12-01,Delhi,South,362,710848,3,Private Vehicle,291270,Industrial
+2023-08-18,Bangalore,West,141,216238,12,Metro,280792,Industrial
+2024-01-11,Delhi,West,188,424161,23,Metro,220913,Industrial
+2023-03-22,Delhi,North,162,507296,23,Private Vehicle,190320,Vehicular
+2024-05-15,Bangalore,South,285,396741,18,Metro,107739,Vehicular
+2023-04-16,Bangalore,West,369,599232,11,Metro,119362,Construction
+2023-01-06,Mumbai,East,198,291958,20,Metro,91029,Construction
+2023-02-28,Delhi,West,188,434053,13,Auto,230152,Dust
+2023-04-21,Bangalore,South,85,546260,23,Bus,158461,Industrial
+2023-07-27,Delhi,West,311,607016,18,Bus,53459,Vehicular
+2023-02-22,Bangalore,West,266,308495,16,Auto,92135,Construction
+2023-12-21,Bangalore,West,319,582416,14,Metro,104248,Construction
+2024-01-16,Mumbai,West,342,303961,17,Bus,295235,Industrial
+2024-03-13,Bangalore,North,342,118215,24,Auto,171698,Industrial
+2023-04-02,Delhi,West,369,446449,20,Private Vehicle,101383,Industrial
+2023-10-05,Mumbai,West,282,635175,13,Bus,155485,Construction
+2024-05-06,Mumbai,South,336,389591,17,Auto,225141,Dust
+2023-05-17,Bangalore,North,315,655236,16,Private Vehicle,214551,Construction
+2023-04-23,Delhi,West,241,446211,11,Bus,233227,Vehicular
+2023-06-11,Bangalore,West,202,239980,22,Metro,239774,Vehicular
+2023-07-05,Delhi,West,281,779662,12,Private Vehicle,252131,Vehicular
+2024-01-24,Delhi,East,106,132569,4,Auto,194759,Vehicular
+2023-06-24,Bangalore,South,315,773002,25,Metro,73954,Dust
+2023-12-20,Delhi,South,195,295451,11,Private Vehicle,182120,Vehicular
+2024-05-10,Bangalore,South,114,606288,24,Metro,109743,Vehicular
+2023-08-10,Delhi,West,170,641862,4,Auto,234063,Vehicular
+2023-07-18,Delhi,North,227,774151,12,Auto,151248,Industrial
+2023-10-14,Delhi,West,318,636156,1,Auto,192871,Industrial
+2023-09-28,Bangalore,East,212,195691,9,Bus,267444,Vehicular
+2023-12-06,Bangalore,West,283,574879,23,Private Vehicle,83481,Industrial
+2023-07-02,Bangalore,South,302,494150,4,Bus,102795,Industrial
+2023-02-27,Delhi,East,179,571797,1,Private Vehicle,125907,Vehicular
+2024-03-22,Delhi,North,366,454391,25,Bus,135263,Industrial
+2024-04-15,Bangalore,West,151,303368,20,Auto,79862,Industrial
+2023-10-31,Mumbai,East,203,599127,14,Bus,276289,Vehicular
+2023-11-11,Mumbai,South,149,159534,1,Metro,83691,Construction
+2024-06-02,Mumbai,East,369,330059,1,Metro,222256,Vehicular
+2024-01-17,Mumbai,North,245,106820,19,Auto,156702,Vehicular
+2024-01-20,Bangalore,South,396,764307,14,Bus,61415,Industrial
+2023-11-08,Delhi,South,323,758735,12,Private Vehicle,150697,Dust
+2023-01-18,Delhi,East,124,713700,13,Auto,93143,Dust
+2023-05-16,Delhi,West,199,347142,21,Bus,259865,Dust
+2023-12-19,Delhi,West,330,660231,22,Bus,160072,Construction
+2023-05-12,Bangalore,West,381,692621,14,Private Vehicle,80733,Industrial
+2024-02-27,Delhi,East,365,125557,3,Private Vehicle,171078,Dust
+2023-08-27,Mumbai,East,131,526777,12,Auto,92315,Dust
+2024-01-13,Mumbai,South,289,365280,2,Metro,158344,Industrial
+2024-05-14,Delhi,North,375,387477,10,Bus,117116,Dust
+2023-12-11,Mumbai,North,227,729536,15,Private Vehicle,132656,Vehicular
+2023-07-20,Bangalore,East,223,210833,21,Auto,84553,Industrial
+2023-03-18,Mumbai,East,266,173906,11,Metro,144332,Construction
+2023-03-20,Bangalore,South,228,514632,20,Auto,244977,Dust
+2024-06-23,Mumbai,West,300,721215,12,Private Vehicle,291019,Construction
+2023-11-14,Mumbai,West,234,127386,5,Metro,280175,Construction
+2024-03-28,Delhi,East,188,742987,16,Private Vehicle,179756,Vehicular
+2023-05-30,Delhi,South,241,376573,15,Auto,288134,Dust
+2023-02-11,Delhi,North,127,502809,18,Private Vehicle,278982,Industrial
+2023-08-24,Mumbai,East,89,464924,11,Auto,181737,Construction
+2024-03-20,Mumbai,East,227,487320,2,Bus,90554,Industrial
+2024-05-05,Delhi,South,347,102193,21,Auto,201051,Dust
+2023-06-15,Mumbai,West,273,101979,5,Auto,186699,Construction
+2024-06-16,Mumbai,West,386,155249,25,Bus,210808,Industrial
+2024-03-09,Delhi,East,322,400679,25,Private Vehicle,122866,Construction
+2023-03-16,Delhi,South,367,578079,22,Metro,109901,Vehicular
+2023-09-03,Mumbai,South,289,430391,12,Auto,152345,Vehicular
+2024-01-30,Bangalore,South,260,357912,12,Bus,263727,Industrial
+2023-06-29,Delhi,West,238,529832,16,Auto,148576,Vehicular
+2023-05-08,Mumbai,North,111,460515,17,Metro,195037,Vehicular
+2023-02-15,Bangalore,East,105,714704,2,Auto,285931,Dust
+2023-04-17,Delhi,East,181,219201,7,Private Vehicle,90705,Vehicular
+2024-05-09,Bangalore,East,219,261772,8,Metro,101474,Vehicular
+2023-12-03,Bangalore,West,371,365463,9,Bus,62675,Vehicular
+2024-02-16,Bangalore,North,375,394778,19,Private Vehicle,251524,Industrial
+2023-12-10,Delhi,North,376,451873,16,Bus,85874,Dust
+2023-11-11,Mumbai,South,139,518464,12,Metro,213993,Vehicular
+2023-09-23,Delhi,South,135,599361,14,Private Vehicle,223514,Dust
+2023-11-12,Bangalore,West,182,673128,2,Metro,270895,Construction
+2023-11-22,Delhi,West,375,395924,23,Auto,215549,Construction
+2024-03-30,Bangalore,West,138,554976,19,Bus,207342,Construction
+2024-04-09,Delhi,North,205,590005,11,Bus,218126,Dust
+2023-03-22,Delhi,North,130,275118,20,Bus,146151,Dust
+2023-03-24,Delhi,East,181,593229,21,Auto,214937,Construction
+2024-04-06,Delhi,East,129,698412,2,Bus,162869,Industrial
+2023-01-21,Mumbai,South,256,275938,8,Metro,131839,Industrial
+2024-01-25,Delhi,South,80,495418,3,Private Vehicle,207639,Industrial
+2024-06-24,Delhi,East,213,398019,23,Auto,62405,Industrial
+2023-05-03,Bangalore,East,194,655768,2,Metro,96447,Dust
+2024-01-19,Delhi,East,230,582408,22,Auto,116848,Vehicular
+2024-02-06,Delhi,West,195,214872,21,Metro,155761,Vehicular
+2023-02-08,Bangalore,South,216,485234,25,Auto,215774,Industrial
+2023-08-21,Mumbai,East,340,710580,16,Private Vehicle,80745,Industrial
+2023-02-09,Delhi,South,328,444947,22,Private Vehicle,88825,Construction
+2023-07-01,Bangalore,West,329,284684,23,Bus,180306,Industrial
+2023-02-03,Bangalore,West,236,378863,4,Private Vehicle,173957,Construction
+2023-03-11,Bangalore,South,372,178539,14,Private Vehicle,200155,Vehicular
+2024-03-21,Mumbai,North,337,564863,8,Auto,267093,Construction
+2024-02-04,Mumbai,South,349,412238,1,Bus,249048,Construction
+2023-02-18,Mumbai,North,327,486040,21,Metro,98998,Construction
+2023-11-05,Delhi,West,147,779452,20,Bus,61585,Dust
+2023-05-30,Delhi,North,161,432474,4,Auto,286276,Construction
+2023-10-03,Bangalore,North,396,429801,21,Auto,86510,Dust
+2023-11-05,Mumbai,North,111,141179,13,Private Vehicle,252087,Dust
+2023-12-03,Bangalore,East,332,359905,23,Auto,106228,Vehicular
+2024-06-22,Delhi,West,263,720911,9,Auto,217866,Vehicular
+2024-06-04,Mumbai,South,165,384753,15,Metro,140682,Vehicular
+2023-03-14,Delhi,West,387,647903,9,Auto,264717,Vehicular
+2024-01-12,Delhi,North,260,206978,4,Bus,233600,Construction
+2023-06-17,Bangalore,North,153,783437,12,Private Vehicle,129106,Construction
+2024-02-08,Mumbai,East,264,460858,1,Auto,262285,Dust
+2024-05-27,Bangalore,North,107,149540,20,Auto,225423,Vehicular
+2023-02-20,Bangalore,East,263,461096,12,Metro,53720,Dust
+2023-09-09,Delhi,West,161,130452,17,Auto,53861,Construction
+2024-01-02,Delhi,East,295,176926,1,Bus,287696,Vehicular
+2023-08-22,Delhi,North,134,302328,7,Bus,55385,Vehicular
+2023-08-23,Mumbai,North,316,110951,24,Auto,97568,Industrial
+2023-10-18,Bangalore,South,207,349894,18,Bus,218293,Dust
+2023-01-13,Delhi,South,326,333329,16,Private Vehicle,271089,Dust
+2023-10-27,Delhi,South,95,523742,1,Auto,285980,Construction
+2023-09-16,Delhi,West,248,382960,20,Auto,293206,Industrial
+2023-08-05,Mumbai,East,360,283358,24,Metro,89745,Construction
+2023-02-05,Mumbai,North,250,423926,6,Bus,113532,Dust
+2023-01-29,Mumbai,East,320,184215,20,Bus,98173,Industrial
+2024-06-18,Bangalore,West,365,731047,6,Metro,294073,Construction
+2023-02-20,Mumbai,North,294,166902,18,Private Vehicle,172902,Dust
+2023-01-09,Bangalore,South,297,722716,22,Private Vehicle,154652,Vehicular
+2024-04-13,Bangalore,West,136,407043,7,Metro,50178,Dust
+2024-04-16,Mumbai,North,94,725129,21,Metro,239073,Industrial
+2023-08-08,Delhi,North,328,197971,5,Private Vehicle,243526,Construction
+2023-11-11,Delhi,East,358,532596,4,Bus,205486,Industrial
+2024-03-01,Mumbai,South,203,138905,17,Auto,90922,Vehicular
+2023-04-22,Delhi,East,182,705784,13,Bus,172604,Vehicular
+2024-06-03,Bangalore,North,299,417351,11,Bus,124135,Construction
+2023-02-23,Delhi,East,182,770437,14,Auto,221343,Industrial
+2023-05-26,Mumbai,East,156,687734,24,Metro,97778,Vehicular
+2024-01-10,Bangalore,North,397,662827,3,Bus,68121,Vehicular
+2023-08-14,Bangalore,North,88,494772,13,Metro,229264,Industrial
+2023-08-09,Bangalore,East,293,237492,24,Private Vehicle,175677,Industrial
+2024-04-05,Mumbai,North,159,257730,11,Bus,110331,Industrial
+2024-01-06,Mumbai,North,399,791151,10,Private Vehicle,262995,Construction
+2023-06-07,Delhi,West,363,428495,9,Auto,292474,Dust
+2023-11-21,Delhi,West,355,703833,15,Auto,253277,Dust
+2024-05-23,Delhi,South,178,232515,4,Bus,175214,Vehicular
+2023-07-23,Delhi,West,169,521182,1,Private Vehicle,240220,Construction
+2023-12-12,Delhi,South,125,148311,5,Bus,160191,Construction
+2023-09-26,Bangalore,South,320,276935,16,Metro,269911,Vehicular
+2023-09-08,Bangalore,East,224,762239,14,Bus,204938,Industrial
+2023-11-01,Delhi,West,351,793692,2,Bus,263173,Construction
+2023-01-29,Delhi,North,394,747386,18,Auto,270389,Vehicular
+2023-04-26,Delhi,West,111,783167,9,Bus,79859,Vehicular
+2024-02-18,Bangalore,East,343,785844,4,Metro,162890,Industrial
+2023-01-10,Delhi,South,137,750469,2,Auto,56670,Construction
+2023-10-10,Bangalore,North,202,268462,12,Auto,228220,Industrial
+2023-11-01,Mumbai,West,173,589674,7,Auto,165260,Industrial
+2024-01-25,Mumbai,North,159,179247,3,Auto,192121,Construction
+2023-01-24,Bangalore,North,117,265848,10,Private Vehicle,206678,Industrial
+2023-04-02,Bangalore,North,332,699544,10,Private Vehicle,119384,Construction
+2023-07-21,Delhi,West,339,129007,1,Auto,93407,Vehicular
+2024-03-07,Delhi,West,181,386014,11,Bus,130802,Industrial
+2023-10-15,Bangalore,West,386,625602,10,Bus,119397,Construction
+2024-06-18,Delhi,West,178,335721,12,Bus,96080,Dust
+2023-12-05,Delhi,South,310,560011,18,Auto,73125,Construction
+2023-05-07,Delhi,East,80,623040,20,Auto,248628,Vehicular
+2024-01-27,Delhi,North,313,531315,1,Bus,71274,Industrial
+2023-10-18,Bangalore,East,286,572416,15,Auto,192395,Dust
+2023-04-24,Mumbai,East,238,628414,17,Bus,169352,Construction
+2024-01-30,Delhi,East,209,490110,2,Private Vehicle,264945,Dust
+2023-12-21,Bangalore,East,116,486034,2,Private Vehicle,154397,Vehicular
+2023-08-31,Mumbai,East,134,629000,21,Auto,131040,Vehicular
+2023-03-26,Bangalore,East,319,296272,23,Metro,135145,Construction
+2024-02-07,Bangalore,East,118,149094,8,Auto,137863,Construction
+2024-03-23,Mumbai,North,205,689999,23,Metro,284959,Dust
+2023-09-24,Mumbai,South,321,205205,2,Metro,254844,Dust
+2023-08-07,Mumbai,East,337,214075,20,Metro,116576,Construction
+2024-04-24,Delhi,East,194,102278,19,Bus,103060,Dust
+2023-07-19,Delhi,West,218,624042,7,Auto,131698,Dust
+2024-02-14,Delhi,West,156,613562,9,Metro,173728,Industrial
+2023-02-17,Mumbai,East,287,789155,4,Bus,65906,Dust
+2024-01-20,Delhi,South,307,541987,17,Bus,153387,Industrial
+2023-08-20,Delhi,East,306,428244,19,Auto,187349,Dust
+2023-05-28,Mumbai,North,135,757059,15,Auto,127789,Construction
+2023-05-04,Bangalore,North,399,643854,11,Auto,247292,Dust
+2023-09-22,Bangalore,South,285,141173,6,Auto,252580,Dust
+2023-01-28,Mumbai,East,319,585151,10,Metro,250862,Construction
+2023-06-07,Mumbai,East,366,503712,3,Private Vehicle,73862,Dust
+2023-04-30,Mumbai,North,274,542066,4,Bus,105551,Dust
+2023-06-30,Mumbai,North,172,684522,11,Metro,56416,Construction
+2023-03-25,Mumbai,North,139,639118,13,Metro,265892,Vehicular
+2024-03-17,Bangalore,South,355,662922,11,Private Vehicle,135808,Industrial
+2024-03-18,Bangalore,West,313,653874,1,Bus,130657,Construction
+2023-11-22,Mumbai,East,113,207023,12,Private Vehicle,208848,Dust
+2023-11-26,Bangalore,North,224,286638,11,Bus,125043,Construction
+2024-04-17,Mumbai,West,386,569590,13,Private Vehicle,125818,Industrial
+2023-01-06,Mumbai,South,172,345227,12,Private Vehicle,139683,Dust
+2023-04-01,Bangalore,West,380,699186,1,Auto,129622,Dust
+2024-01-22,Mumbai,North,397,630977,3,Bus,55907,Industrial
+2023-09-21,Delhi,North,276,386721,23,Auto,59608,Industrial
+2023-02-06,Delhi,West,113,395157,19,Private Vehicle,229201,Vehicular
+2023-05-04,Delhi,East,211,537992,7,Private Vehicle,174349,Dust
+2023-12-17,Mumbai,South,396,256900,22,Auto,98851,Dust
+2023-02-18,Delhi,East,219,703799,11,Metro,297187,Vehicular
+2024-02-28,Bangalore,East,275,520024,18,Private Vehicle,277580,Vehicular
+2024-04-03,Mumbai,North,390,463722,25,Auto,163255,Industrial
+2023-12-05,Delhi,North,155,660790,5,Bus,133593,Vehicular
+2024-03-11,Mumbai,West,100,266445,13,Private Vehicle,298669,Dust
+2023-10-21,Delhi,North,171,289314,20,Metro,91689,Dust
+2023-04-21,Bangalore,South,360,568406,1,Bus,203872,Construction
+2023-09-30,Delhi,East,162,229372,6,Bus,139312,Industrial
+2024-03-25,Mumbai,North,264,526687,15,Auto,294212,Construction
+2023-12-17,Bangalore,North,168,521283,13,Metro,241348,Construction
+2024-01-16,Mumbai,West,322,534664,6,Metro,58036,Industrial
+2023-05-11,Bangalore,West,259,364511,16,Bus,69365,Dust
+2024-04-19,Delhi,North,123,431399,17,Metro,228968,Dust
+2024-03-25,Delhi,North,261,578359,3,Metro,182703,Industrial
+2024-02-18,Delhi,North,307,441017,21,Metro,105229,Dust
+2024-03-24,Mumbai,South,139,356261,6,Auto,170741,Construction
+2023-04-19,Bangalore,South,197,773981,13,Metro,93594,Industrial
+2024-06-04,Delhi,North,93,354576,9,Bus,108538,Construction
+2023-12-18,Mumbai,South,265,736200,24,Metro,50185,Industrial
+2023-09-19,Bangalore,East,199,133687,22,Private Vehicle,291801,Vehicular
+2024-01-31,Mumbai,North,339,326019,6,Private Vehicle,99431,Vehicular
+2023-02-18,Bangalore,North,314,466643,12,Bus,86857,Dust
+2023-02-25,Bangalore,South,267,463217,9,Metro,245477,Dust
+2023-04-20,Bangalore,North,207,539646,17,Bus,99380,Industrial
+2024-05-18,Mumbai,East,282,703669,7,Auto,133098,Construction
+2023-03-19,Bangalore,North,173,625042,4,Metro,287046,Industrial
+2023-05-02,Delhi,West,206,231549,7,Metro,179118,Construction
+2023-05-05,Bangalore,North,102,455784,22,Private Vehicle,149303,Construction
+2024-01-04,Bangalore,West,211,109684,4,Bus,120319,Industrial
+2024-03-24,Bangalore,North,218,184955,8,Metro,114203,Construction
+2023-09-18,Bangalore,West,207,715390,13,Private Vehicle,246956,Vehicular
+2024-05-20,Bangalore,West,300,374366,4,Metro,79808,Construction
+2023-01-26,Delhi,West,84,440724,15,Bus,257566,Industrial
+2023-09-16,Mumbai,West,302,525155,22,Private Vehicle,159203,Industrial
+2023-09-23,Bangalore,South,216,763198,10,Private Vehicle,124468,Industrial
+2023-08-31,Delhi,North,260,537187,13,Auto,198846,Industrial
+2023-02-08,Bangalore,North,255,107950,20,Auto,54082,Dust
+2023-03-18,Delhi,East,238,221700,18,Private Vehicle,123487,Construction
+2024-03-22,Bangalore,West,359,243284,1,Bus,136941,Construction
+2023-05-30,Mumbai,West,251,738795,4,Private Vehicle,153571,Construction
+2023-03-10,Delhi,North,136,781016,1,Private Vehicle,140623,Dust
+2023-03-03,Mumbai,West,258,459895,4,Private Vehicle,144075,Vehicular
+2023-11-04,Delhi,North,379,164805,5,Private Vehicle,89203,Vehicular
+2023-01-25,Bangalore,North,268,737341,18,Metro,195389,Industrial
+2023-10-24,Mumbai,East,169,484378,15,Private Vehicle,117989,Dust
+2023-07-28,Delhi,East,107,221271,14,Auto,87722,Industrial
+2023-12-12,Mumbai,South,231,449056,7,Metro,290411,Construction
+2023-05-20,Mumbai,West,125,184243,12,Bus,189298,Dust
+2023-10-24,Mumbai,East,299,763476,24,Metro,190319,Construction
+2023-07-06,Delhi,East,240,687169,19,Auto,125806,Industrial
+2023-09-01,Bangalore,South,363,636059,19,Metro,175269,Construction
+2023-11-03,Bangalore,South,181,268819,1,Bus,276757,Construction
+2024-01-17,Mumbai,North,211,122888,3,Metro,117348,Vehicular
+2023-10-22,Mumbai,East,261,508869,11,Auto,173548,Industrial
+2023-08-27,Delhi,North,313,419221,19,Private Vehicle,63549,Industrial
+2023-01-09,Delhi,West,179,105334,21,Bus,103633,Dust
+2023-02-15,Delhi,North,338,162561,22,Auto,80555,Vehicular
+2023-11-29,Mumbai,South,257,674122,20,Auto,189446,Construction
+2024-04-08,Delhi,East,285,424286,12,Private Vehicle,59310,Vehicular
+2024-06-20,Delhi,West,197,183841,25,Auto,280639,Dust
+2023-03-29,Bangalore,East,386,407821,5,Private Vehicle,121652,Industrial
+2024-05-15,Delhi,East,225,484274,2,Auto,173582,Vehicular
+2023-06-18,Bangalore,West,101,418109,1,Metro,99637,Construction
+2023-04-29,Mumbai,North,395,529565,4,Private Vehicle,241205,Vehicular
+2023-06-03,Delhi,East,89,605603,13,Bus,97038,Dust
+2023-10-21,Bangalore,South,363,394704,17,Bus,266828,Vehicular
+2023-05-11,Bangalore,West,165,137895,14,Private Vehicle,61861,Industrial
+2023-02-06,Bangalore,North,95,534120,24,Auto,140441,Industrial
+2023-06-05,Mumbai,West,199,627800,19,Metro,298241,Vehicular
+2023-08-24,Delhi,North,296,616642,22,Auto,81752,Construction
+2024-01-14,Delhi,South,394,697898,21,Auto,108075,Construction
+2023-06-22,Mumbai,South,119,463728,16,Private Vehicle,191062,Vehicular
+2024-06-23,Mumbai,East,348,507378,4,Private Vehicle,159584,Dust
+2023-02-02,Mumbai,East,117,304010,13,Metro,126117,Industrial
+2023-06-22,Mumbai,South,354,774641,13,Auto,167800,Industrial
+2023-03-25,Mumbai,South,113,503243,15,Bus,267328,Industrial
+2023-08-18,Mumbai,West,307,324511,13,Bus,100739,Industrial
+2023-02-23,Delhi,East,232,726725,1,Metro,250894,Industrial
+2023-06-15,Mumbai,North,291,325143,15,Auto,91084,Vehicular
+2023-08-16,Bangalore,West,270,294030,17,Bus,83627,Vehicular
+2023-07-27,Mumbai,East,181,331155,13,Metro,285663,Construction
+2023-07-24,Delhi,South,175,532263,25,Metro,83618,Construction
+2024-01-13,Mumbai,East,193,595502,22,Bus,175966,Dust
+2023-01-18,Delhi,North,222,464001,19,Private Vehicle,296208,Dust
+2024-06-08,Mumbai,South,379,720569,15,Metro,107921,Industrial
+2023-01-12,Delhi,South,240,694022,7,Bus,114373,Industrial
+2024-05-29,Delhi,East,360,403396,9,Private Vehicle,77729,Industrial
+2023-04-03,Bangalore,West,176,305741,20,Metro,213067,Industrial
+2023-06-10,Mumbai,East,400,634742,16,Private Vehicle,60813,Vehicular
+2023-08-31,Delhi,East,342,696369,11,Bus,204549,Vehicular
+2023-04-26,Delhi,West,379,139255,18,Metro,272060,Dust
+2023-03-06,Delhi,West,126,145587,4,Auto,188734,Dust
+2023-10-06,Mumbai,North,245,325138,10,Metro,57575,Dust
+2024-03-15,Bangalore,North,185,187525,2,Bus,255625,Industrial
+2023-07-01,Delhi,East,331,353342,11,Bus,283620,Vehicular
+2023-11-24,Bangalore,East,398,388629,9,Bus,71162,Industrial
+2023-01-09,Bangalore,South,380,576530,20,Private Vehicle,241668,Dust
+2023-02-21,Delhi,East,376,389770,22,Bus,201620,Dust
+2023-02-24,Delhi,East,132,421905,1,Private Vehicle,60534,Construction
+2023-11-26,Mumbai,North,110,789511,24,Metro,129245,Construction
+2024-03-12,Delhi,South,333,193563,7,Metro,289276,Vehicular
+2024-02-05,Mumbai,South,278,161159,12,Bus,175251,Dust
+2024-05-30,Delhi,East,220,182489,17,Bus,145324,Dust
+2023-02-06,Delhi,East,145,536184,18,Private Vehicle,56477,Industrial
+2024-01-24,Delhi,West,151,271335,13,Auto,78359,Industrial
+2023-06-08,Bangalore,East,145,649438,21,Bus,222743,Dust
+2024-04-11,Mumbai,North,245,666587,23,Private Vehicle,91832,Construction
+2023-01-08,Delhi,South,93,698486,2,Bus,244800,Industrial
+2024-01-29,Bangalore,North,139,744298,17,Bus,263503,Dust
+2024-05-06,Bangalore,East,131,364528,2,Metro,200171,Industrial
+2023-01-04,Mumbai,North,362,220076,6,Auto,105863,Vehicular
+2023-08-19,Mumbai,North,254,560621,2,Metro,119746,Vehicular
+2023-01-28,Delhi,East,160,690201,1,Metro,101678,Construction
+2023-12-19,Mumbai,South,330,291207,12,Bus,201827,Vehicular
+2024-04-17,Delhi,West,313,451253,25,Bus,140147,Construction
+2024-05-15,Bangalore,North,288,337388,13,Metro,213206,Vehicular
+2023-08-08,Mumbai,South,216,398332,24,Metro,173768,Construction
+2023-07-17,Bangalore,North,343,740942,4,Private Vehicle,276814,Dust
+2023-04-28,Mumbai,East,312,667998,22,Metro,231228,Dust
+2023-06-28,Mumbai,North,227,453020,2,Private Vehicle,294772,Vehicular
+2024-05-15,Delhi,North,236,688890,19,Bus,183143,Dust
+2024-05-29,Bangalore,North,211,103676,10,Metro,125759,Construction
+2023-03-04,Mumbai,West,183,412199,5,Bus,248639,Construction
+2023-05-05,Delhi,South,171,549369,23,Metro,211905,Construction
+2023-04-01,Delhi,West,255,762422,20,Metro,151961,Construction
+2023-03-28,Mumbai,South,327,681259,12,Metro,212028,Construction
+2024-05-15,Bangalore,South,99,617869,13,Metro,202452,Dust
+2023-09-05,Delhi,West,207,632127,11,Private Vehicle,121529,Dust
+2024-02-16,Delhi,North,304,411234,2,Bus,157071,Dust
+2023-12-16,Bangalore,South,146,316145,1,Bus,101651,Vehicular
+2023-10-24,Bangalore,North,171,657270,24,Private Vehicle,87542,Vehicular
+2023-03-27,Bangalore,South,259,366719,12,Auto,209243,Industrial
+2024-01-04,Mumbai,East,251,487117,2,Metro,134452,Dust
+2023-11-08,Mumbai,North,307,114447,22,Bus,250451,Dust
+2023-02-21,Bangalore,East,303,131097,11,Metro,170541,Construction
+2023-02-07,Delhi,South,113,748577,22,Auto,111891,Industrial
+2023-08-06,Bangalore,East,288,793352,13,Metro,127209,Dust
+2023-02-27,Mumbai,South,125,122382,1,Metro,116439,Vehicular
+2023-08-04,Bangalore,East,169,715345,5,Auto,199908,Construction
+2023-03-08,Bangalore,South,397,530549,6,Bus,88399,Vehicular
+2023-11-01,Delhi,South,301,442504,2,Auto,227844,Industrial
+2023-05-08,Delhi,West,263,371158,9,Metro,181629,Vehicular
+2023-04-03,Mumbai,North,126,408184,16,Metro,189054,Industrial
+2024-02-02,Delhi,West,92,409737,15,Private Vehicle,51266,Dust
+2023-06-18,Mumbai,North,121,121513,22,Private Vehicle,259476,Construction
+2024-05-03,Delhi,North,221,433312,6,Auto,283738,Vehicular
+2024-04-22,Bangalore,South,381,136662,5,Private Vehicle,267051,Vehicular
+2023-10-22,Bangalore,East,285,166838,22,Metro,119570,Construction
+2023-12-04,Delhi,North,231,310189,17,Auto,249156,Dust
+2023-04-26,Mumbai,North,340,585962,15,Metro,197928,Industrial
+2023-01-28,Delhi,North,268,275075,2,Bus,166509,Industrial
+2023-04-05,Delhi,South,139,715266,16,Bus,130513,Industrial
+2024-06-03,Delhi,East,173,703945,1,Bus,80086,Construction
+2023-10-28,Mumbai,East,215,632896,16,Private Vehicle,252093,Construction
+2023-02-21,Mumbai,West,159,559594,6,Private Vehicle,57858,Dust
+2023-11-15,Mumbai,East,386,573293,7,Private Vehicle,165980,Vehicular
+2023-04-10,Delhi,East,181,466265,11,Metro,110219,Dust
+2023-08-03,Bangalore,West,125,668319,18,Metro,88771,Dust
+2023-01-07,Delhi,North,140,280588,11,Bus,61563,Dust
+2024-01-29,Bangalore,South,144,505744,20,Metro,226134,Industrial
+2023-12-27,Bangalore,East,166,502844,19,Metro,125153,Construction
+2023-12-14,Bangalore,West,260,498701,22,Private Vehicle,59137,Construction
+2024-02-01,Delhi,East,175,614446,24,Private Vehicle,280612,Dust
+2024-06-01,Delhi,West,196,241516,22,Private Vehicle,190406,Dust
+2023-12-31,Bangalore,West,119,651141,9,Private Vehicle,236676,Vehicular
+2023-12-16,Mumbai,South,370,344893,20,Auto,295289,Dust
+2023-12-10,Bangalore,West,350,437675,18,Auto,200522,Dust
+2024-01-17,Delhi,West,101,155124,2,Bus,212569,Vehicular
+2023-08-05,Mumbai,West,224,671043,3,Auto,114186,Vehicular
+2023-06-20,Bangalore,South,286,628840,4,Metro,219876,Dust
+2023-07-25,Delhi,East,146,541506,19,Bus,67390,Industrial
+2023-01-31,Mumbai,North,244,203027,12,Private Vehicle,127913,Construction
+2023-09-19,Mumbai,North,237,593208,23,Bus,200167,Vehicular
+2024-03-30,Bangalore,East,94,109316,23,Auto,286976,Dust
+2023-02-20,Mumbai,West,330,696765,10,Private Vehicle,191355,Construction
+2024-02-20,Bangalore,North,348,292699,1,Bus,128136,Industrial
+2023-12-09,Delhi,North,339,738735,13,Bus,177164,Vehicular
+2023-04-28,Delhi,North,118,739517,13,Bus,253323,Dust
+2024-03-30,Delhi,South,393,725610,5,Private Vehicle,86523,Construction
+2023-10-13,Bangalore,West,319,746938,6,Bus,74632,Construction
+2024-06-10,Delhi,West,273,290234,25,Private Vehicle,288838,Construction
+2024-04-01,Bangalore,West,342,502837,10,Private Vehicle,69535,Vehicular
+2023-12-10,Delhi,South,283,667375,15,Bus,219398,Dust
+2024-04-13,Delhi,South,136,363353,24,Bus,144417,Construction
+2024-05-13,Delhi,North,249,143905,7,Metro,86045,Dust
+2023-08-02,Bangalore,West,269,513304,1,Bus,178227,Industrial
+2023-03-13,Delhi,North,305,537021,20,Metro,78896,Industrial
+2023-07-25,Delhi,South,342,775108,22,Auto,249171,Dust
+2023-07-17,Bangalore,South,203,396273,1,Bus,131040,Vehicular
+2023-12-19,Delhi,West,80,497402,13,Private Vehicle,278718,Construction
+2023-05-14,Bangalore,North,199,144210,5,Metro,66150,Dust
+2023-11-30,Bangalore,East,354,651865,11,Private Vehicle,148171,Dust
+2023-09-30,Delhi,West,120,772546,14,Auto,182225,Dust
+2023-12-03,Delhi,East,370,459812,14,Bus,145211,Vehicular
+2023-06-18,Delhi,East,315,422087,7,Metro,225641,Construction
+2024-03-08,Delhi,West,121,541070,7,Metro,286907,Dust
+2023-09-10,Mumbai,South,82,327771,12,Metro,177709,Construction
+2024-02-27,Delhi,South,302,401633,23,Metro,290728,Industrial
+2024-04-21,Bangalore,East,186,366710,7,Auto,141079,Dust
+2023-09-10,Bangalore,East,337,453627,24,Private Vehicle,101496,Industrial
+2023-04-10,Delhi,West,341,327286,23,Auto,287737,Vehicular
+2023-01-17,Bangalore,East,332,141578,14,Bus,143811,Dust
+2024-04-21,Mumbai,West,106,480273,25,Bus,253306,Vehicular
+2023-12-04,Bangalore,East,111,312646,3,Bus,123892,Dust
+2023-05-30,Bangalore,East,239,558489,16,Metro,268725,Industrial
+2024-04-19,Delhi,West,386,103636,8,Private Vehicle,169305,Industrial
+2024-03-25,Delhi,South,362,652289,4,Private Vehicle,274667,Vehicular
+2023-04-26,Bangalore,West,166,693976,9,Metro,210351,Industrial
+2023-03-20,Bangalore,East,316,558658,12,Private Vehicle,252316,Dust
+2023-06-02,Delhi,South,338,238913,1,Bus,181738,Vehicular
+2024-04-10,Mumbai,West,263,575371,8,Private Vehicle,172890,Industrial
+2023-12-09,Bangalore,North,334,229047,14,Bus,221447,Construction
+2023-02-06,Mumbai,South,361,742397,20,Bus,105332,Vehicular
+2023-08-29,Bangalore,North,137,317276,21,Bus,267922,Construction
+2024-04-17,Mumbai,South,365,115650,7,Private Vehicle,99006,Construction
+2024-05-24,Bangalore,South,285,384819,1,Bus,223313,Industrial
+2023-09-29,Bangalore,East,273,219359,19,Bus,52130,Vehicular
+2023-06-27,Bangalore,South,94,321045,3,Private Vehicle,212815,Industrial
+2023-11-24,Mumbai,East,247,545028,18,Bus,76526,Dust
+2024-03-30,Delhi,East,114,201105,15,Auto,254353,Industrial
+2023-02-27,Mumbai,East,148,665653,11,Private Vehicle,196980,Construction
+2023-02-02,Delhi,North,394,536136,19,Bus,190224,Dust
+2024-02-14,Delhi,East,322,618874,11,Bus,156754,Vehicular
+2023-03-12,Delhi,West,288,439361,12,Bus,193858,Industrial
+2023-05-01,Mumbai,West,277,621383,1,Private Vehicle,255042,Construction
+2023-10-28,Delhi,East,384,694954,19,Private Vehicle,220627,Industrial
+2023-08-17,Mumbai,South,245,319479,2,Private Vehicle,223600,Construction
+2023-03-15,Delhi,South,99,776937,17,Auto,133455,Construction
+2024-03-16,Delhi,North,237,655375,4,Auto,68807,Industrial
+2023-11-12,Delhi,South,381,219141,25,Auto,295186,Industrial
+2023-04-02,Mumbai,East,387,543259,15,Metro,214327,Construction
+2023-07-12,Bangalore,North,98,450409,3,Private Vehicle,151876,Dust
+2023-12-10,Bangalore,East,305,287830,2,Metro,212363,Vehicular
+2023-04-28,Bangalore,East,283,422598,11,Private Vehicle,194023,Construction
+2024-01-15,Mumbai,North,202,488801,24,Metro,204204,Construction
+2023-12-16,Delhi,South,387,608837,5,Auto,164972,Dust
+2024-04-30,Delhi,North,384,535019,11,Metro,273814,Industrial
+2024-06-23,Mumbai,East,228,612303,11,Private Vehicle,62736,Vehicular
+2024-01-13,Delhi,West,305,116507,14,Auto,216038,Vehicular
+2024-03-04,Delhi,West,302,752957,3,Private Vehicle,93172,Industrial
+2023-04-06,Bangalore,North,213,557961,22,Bus,54775,Industrial
+2023-09-15,Bangalore,East,177,498239,13,Bus,210771,Construction
+2024-05-06,Mumbai,South,245,252118,2,Private Vehicle,277739,Vehicular
+2023-01-25,Mumbai,East,360,505985,22,Metro,65764,Industrial
+2023-07-07,Delhi,North,303,490096,9,Private Vehicle,124971,Construction
+2024-03-13,Delhi,South,215,762309,3,Auto,64073,Construction
+2023-09-09,Mumbai,East,384,783718,4,Metro,200650,Construction
+2023-09-08,Delhi,North,213,197845,7,Bus,115921,Dust
+2023-11-16,Delhi,East,318,121485,13,Metro,248598,Construction
+2023-06-04,Mumbai,East,110,663805,19,Bus,82896,Dust
+2023-01-17,Delhi,South,335,272609,18,Auto,106816,Industrial
+2024-02-17,Delhi,East,351,565912,14,Metro,161715,Vehicular
+2023-11-20,Delhi,East,124,449803,2,Metro,130724,Vehicular
+2024-01-04,Mumbai,North,89,625092,15,Bus,217055,Vehicular
+2023-02-20,Delhi,North,225,432337,16,Private Vehicle,106650,Vehicular
+2023-03-19,Bangalore,East,347,180601,17,Metro,172861,Industrial
+2023-07-17,Delhi,East,179,272070,12,Auto,101199,Industrial
+2024-05-04,Bangalore,East,167,612253,11,Auto,97641,Industrial
+2024-06-20,Delhi,West,198,784540,11,Metro,257002,Dust
+2024-02-29,Delhi,North,227,199747,10,Private Vehicle,123709,Vehicular
+2023-01-10,Delhi,North,319,478174,10,Private Vehicle,71841,Construction
+2023-02-18,Mumbai,West,268,404892,12,Auto,81882,Industrial
+2024-02-22,Mumbai,South,346,391301,11,Bus,53440,Vehicular
+2023-10-21,Mumbai,South,160,661023,5,Bus,133833,Construction
+2024-03-15,Delhi,West,129,421399,7,Metro,164125,Industrial
+2023-12-22,Mumbai,East,153,115264,7,Metro,253638,Dust
+2024-04-14,Delhi,East,386,570693,1,Metro,247578,Dust
+2023-04-02,Mumbai,West,390,260416,14,Private Vehicle,218175,Construction
+2023-07-11,Delhi,East,89,598988,8,Private Vehicle,163414,Vehicular
+2024-02-26,Bangalore,South,352,310460,23,Auto,235890,Industrial
+2023-03-03,Delhi,East,155,685585,8,Bus,163100,Industrial
+2023-06-22,Mumbai,West,146,121515,20,Private Vehicle,141526,Dust
+2024-01-31,Bangalore,East,320,748296,10,Bus,110825,Construction
+2023-01-31,Bangalore,North,273,239100,4,Bus,97973,Construction
+2023-06-03,Mumbai,North,356,405574,7,Metro,65499,Dust
+2024-06-01,Delhi,South,293,450929,8,Private Vehicle,286968,Construction
+2024-04-05,Mumbai,East,256,720106,21,Bus,226526,Vehicular
+2023-04-19,Mumbai,East,391,223644,3,Bus,123597,Construction
+2023-12-09,Mumbai,East,393,478847,21,Bus,278105,Vehicular
+2024-05-27,Bangalore,South,281,723376,24,Auto,189537,Industrial
+2023-04-19,Bangalore,East,265,618191,19,Metro,103275,Vehicular
+2023-01-11,Bangalore,North,257,493912,11,Bus,51390,Dust
+2024-01-09,Delhi,South,220,491098,13,Private Vehicle,285504,Vehicular
+2024-05-23,Delhi,East,294,285396,12,Bus,187411,Vehicular
+2024-04-08,Delhi,South,115,437414,8,Auto,248679,Industrial
+2024-02-24,Delhi,West,296,625956,9,Bus,182749,Construction
+2024-01-04,Delhi,East,188,638840,22,Metro,191395,Vehicular
+2023-04-20,Delhi,East,260,657033,16,Bus,126510,Dust
+2023-07-09,Delhi,South,270,113189,7,Auto,89463,Vehicular
+2024-03-14,Mumbai,South,178,376980,4,Metro,56371,Industrial
+2023-03-23,Mumbai,West,206,595622,19,Auto,67114,Construction
+2023-11-08,Delhi,East,218,318311,5,Bus,117720,Vehicular
+2023-07-28,Bangalore,East,379,269371,4,Bus,244961,Construction
+2023-07-04,Bangalore,West,340,617971,4,Auto,193864,Dust
+2024-03-10,Bangalore,South,124,562477,24,Metro,75206,Industrial
+2023-11-11,Bangalore,South,363,588433,7,Bus,250446,Industrial
+2023-12-27,Bangalore,South,390,717270,20,Private Vehicle,239851,Construction
+2023-02-19,Bangalore,North,195,303997,20,Auto,66054,Vehicular
+2023-09-02,Mumbai,North,127,782346,9,Metro,288860,Dust
+2024-05-06,Delhi,North,235,659952,7,Metro,71402,Industrial
+2023-10-19,Mumbai,East,147,226821,13,Private Vehicle,83765,Dust
+2023-01-27,Delhi,South,196,632098,9,Metro,151578,Dust
+2023-10-31,Mumbai,West,270,648731,4,Private Vehicle,217386,Industrial
+2023-01-15,Mumbai,East,238,611965,9,Private Vehicle,288277,Vehicular
+2024-03-01,Bangalore,South,369,401131,9,Auto,167028,Industrial
+2023-10-07,Bangalore,East,132,171808,1,Bus,236145,Vehicular
+2023-08-23,Delhi,South,198,199274,6,Metro,291184,Industrial
+2023-01-03,Bangalore,West,111,166403,16,Private Vehicle,256708,Construction
+2024-04-22,Mumbai,South,399,722612,4,Private Vehicle,255916,Dust
+2023-02-21,Bangalore,East,290,233256,17,Bus,120842,Dust
+2023-08-24,Mumbai,South,220,215565,2,Bus,269309,Construction
+2023-09-25,Mumbai,East,217,477204,18,Private Vehicle,57553,Industrial
+2023-10-27,Delhi,West,309,669411,13,Metro,92579,Vehicular
+2024-05-16,Mumbai,East,312,110489,16,Bus,157265,Vehicular
+2023-06-10,Delhi,South,327,430063,12,Auto,63967,Construction
+2023-11-18,Bangalore,East,132,750710,24,Bus,289178,Vehicular
+2024-02-25,Mumbai,West,328,475652,9,Auto,80684,Industrial
+2023-09-19,Bangalore,East,308,642770,2,Auto,209991,Vehicular
+2023-12-02,Bangalore,South,211,186351,3,Bus,198636,Dust
+2023-11-18,Mumbai,North,169,715425,14,Auto,165164,Dust
+2023-07-22,Mumbai,East,191,394981,4,Bus,207190,Dust
+2024-01-11,Mumbai,East,96,347006,3,Auto,131652,Vehicular
+2023-09-05,Mumbai,North,89,253436,7,Metro,126479,Dust
+2023-11-04,Mumbai,North,285,377297,1,Bus,273828,Industrial
+2024-02-20,Mumbai,South,192,569532,7,Auto,184547,Dust
+2023-04-05,Bangalore,South,339,429193,2,Private Vehicle,264061,Vehicular
+2023-11-27,Delhi,West,333,100813,22,Metro,184548,Construction
+2023-09-18,Bangalore,South,324,556210,14,Metro,53272,Construction
+2024-03-12,Mumbai,South,194,640717,2,Metro,265898,Construction
+2023-10-03,Bangalore,West,367,665127,6,Auto,265542,Industrial
+2024-03-27,Bangalore,West,121,664880,11,Bus,81563,Dust
+2023-08-01,Mumbai,North,164,728578,7,Metro,190253,Industrial
+2023-07-12,Bangalore,West,318,256046,7,Private Vehicle,257259,Vehicular
+2023-05-15,Delhi,South,237,283647,22,Metro,141896,Industrial
+2023-09-17,Delhi,West,303,551160,16,Metro,152332,Construction
+2023-01-08,Mumbai,South,279,673958,4,Bus,89213,Construction
+2023-11-10,Delhi,North,369,750088,18,Metro,258268,Dust
+2024-03-16,Bangalore,East,393,304633,3,Private Vehicle,64509,Vehicular
+2024-01-22,Bangalore,South,280,508851,2,Auto,182791,Construction
+2023-07-02,Bangalore,West,114,427131,24,Bus,128075,Vehicular
+2024-01-07,Delhi,South,242,601559,23,Auto,280654,Vehicular
+2023-06-27,Mumbai,North,369,343948,22,Private Vehicle,243013,Construction
+2024-03-04,Mumbai,West,289,609411,16,Bus,63501,Industrial
+2024-05-22,Delhi,West,221,776697,16,Metro,145303,Dust
+2023-08-27,Mumbai,South,139,600843,2,Metro,204601,Industrial
+2023-11-09,Bangalore,South,233,164120,16,Private Vehicle,253238,Dust
+2024-05-20,Bangalore,East,351,645929,10,Bus,200106,Construction
+2024-02-15,Mumbai,South,135,415251,20,Bus,118334,Industrial
+2023-06-20,Delhi,West,217,699339,23,Bus,175839,Industrial
+2023-01-10,Delhi,East,344,616315,20,Private Vehicle,265960,Dust
+2023-09-21,Mumbai,North,379,760980,16,Private Vehicle,79742,Industrial
+2023-02-08,Mumbai,South,357,627378,1,Bus,268485,Dust
+2024-03-23,Mumbai,East,123,583554,13,Metro,135144,Industrial
+2023-01-16,Mumbai,North,256,749629,15,Auto,126964,Construction
+2023-01-29,Mumbai,West,308,571185,10,Metro,66900,Dust
+2023-03-21,Mumbai,North,230,707608,9,Private Vehicle,187576,Dust
+2024-04-19,Mumbai,South,297,684098,18,Bus,78309,Dust
+2023-02-14,Bangalore,South,387,376462,20,Auto,222859,Dust
+2024-02-08,Bangalore,East,317,413126,4,Private Vehicle,96667,Industrial
+2023-02-05,Mumbai,South,320,300516,19,Bus,237733,Construction
+2024-04-21,Bangalore,South,253,789051,7,Metro,258063,Vehicular
+2024-01-01,Delhi,South,118,139475,3,Metro,151589,Dust
+2024-06-18,Delhi,South,233,704260,1,Auto,170286,Construction
+2023-12-27,Delhi,West,396,290302,13,Bus,197062,Construction
+2023-12-21,Bangalore,South,337,110561,13,Bus,68491,Construction
+2024-01-30,Mumbai,North,159,530795,12,Bus,130066,Industrial
+2023-09-12,Mumbai,East,209,455363,7,Bus,179073,Dust
+2023-07-06,Delhi,East,283,316888,8,Bus,221650,Industrial
+2023-04-12,Bangalore,North,289,517565,24,Auto,100115,Construction
+2024-02-26,Mumbai,South,372,760345,18,Bus,122002,Industrial
+2023-04-10,Mumbai,North,294,772638,19,Metro,148001,Vehicular
+2023-02-22,Mumbai,North,249,278029,24,Bus,125969,Vehicular
+2023-10-20,Delhi,North,380,496128,3,Private Vehicle,114551,Construction
+2023-02-16,Mumbai,North,315,592905,2,Private Vehicle,118616,Industrial
+2023-08-26,Delhi,West,354,549466,18,Metro,127009,Vehicular
+2023-01-06,Bangalore,North,139,687772,21,Private Vehicle,244665,Construction
+2024-01-19,Delhi,East,362,752631,9,Auto,216613,Vehicular
+2024-06-09,Delhi,West,183,234038,17,Auto,65595,Industrial
+2023-06-02,Bangalore,East,278,738378,10,Metro,265762,Industrial
+2023-06-29,Mumbai,North,104,482743,14,Bus,255526,Industrial
+2023-04-04,Delhi,East,146,689535,18,Metro,257539,Construction
+2024-04-02,Mumbai,South,269,712775,13,Metro,150014,Vehicular
+2024-04-08,Delhi,West,176,513038,4,Bus,294103,Industrial
+2023-04-20,Delhi,North,154,214733,7,Auto,256269,Industrial
+2023-07-04,Delhi,North,384,120204,2,Private Vehicle,66527,Construction
+2023-09-12,Bangalore,South,227,237073,25,Bus,189715,Dust
+2024-02-26,Mumbai,East,126,374663,22,Auto,174217,Construction
+2024-05-19,Delhi,South,282,660846,3,Private Vehicle,250972,Construction
+2023-08-19,Mumbai,West,162,129547,20,Private Vehicle,269408,Vehicular
+2023-12-01,Mumbai,West,252,223601,2,Private Vehicle,69776,Industrial
+2023-01-12,Bangalore,East,318,697128,3,Metro,121832,Vehicular
+2023-09-30,Delhi,North,113,670596,18,Auto,88700,Vehicular
+2023-07-17,Delhi,South,346,589614,25,Bus,225275,Vehicular
+2024-01-03,Mumbai,East,101,782784,23,Metro,120150,Industrial
+2024-06-16,Bangalore,North,262,142537,4,Private Vehicle,203304,Dust
+2023-07-04,Delhi,South,95,186451,3,Bus,65958,Vehicular
+2023-11-12,Bangalore,West,90,149169,17,Auto,294446,Dust
+2024-03-16,Mumbai,East,115,523592,22,Auto,164282,Industrial
+2024-06-17,Mumbai,North,138,172108,23,Auto,230553,Construction
+2024-01-06,Mumbai,North,80,436252,24,Auto,242082,Construction
+2023-04-10,Mumbai,East,123,452167,8,Metro,53121,Construction
+2023-06-07,Bangalore,East,239,402215,1,Auto,64507,Construction
+2023-03-21,Bangalore,West,198,492340,7,Auto,167225,Industrial
+2024-02-06,Bangalore,East,92,372021,1,Metro,214632,Dust
+2023-04-05,Bangalore,East,166,163714,3,Bus,74433,Industrial
+2023-11-15,Bangalore,West,336,612835,14,Private Vehicle,182688,Dust
+2023-02-05,Mumbai,West,137,306550,6,Bus,195006,Construction
+2024-04-22,Mumbai,West,89,212441,20,Private Vehicle,59926,Vehicular
+2023-04-19,Delhi,West,345,558038,14,Metro,249907,Construction
+2023-12-01,Bangalore,West,390,779169,19,Auto,98922,Industrial
+2023-11-18,Delhi,South,128,422360,6,Metro,166600,Dust
+2024-06-11,Delhi,North,117,395023,6,Private Vehicle,193805,Construction
+2023-12-01,Delhi,East,92,596033,10,Bus,242823,Dust
+2024-05-28,Mumbai,West,205,166824,11,Private Vehicle,252147,Dust
+2023-09-28,Bangalore,West,330,173228,16,Auto,99880,Industrial
+2023-06-16,Mumbai,East,331,497906,25,Auto,294918,Construction
+2023-03-30,Mumbai,South,205,751051,7,Metro,169602,Vehicular
+2024-02-08,Mumbai,South,299,249232,13,Bus,161909,Construction
+2023-05-23,Delhi,West,320,701482,10,Private Vehicle,251072,Industrial
+2023-08-16,Mumbai,West,292,123443,10,Private Vehicle,157808,Vehicular
+2024-02-06,Mumbai,West,364,419201,1,Bus,91440,Industrial
+2023-12-08,Bangalore,West,186,275911,9,Private Vehicle,67040,Construction
+2023-09-27,Mumbai,North,107,205829,15,Auto,78251,Vehicular
+2023-12-10,Mumbai,West,341,612597,24,Metro,87054,Dust
+2023-09-07,Delhi,North,288,150973,5,Private Vehicle,246840,Vehicular
+2023-12-06,Bangalore,East,373,470284,20,Bus,193740,Construction
+2024-06-07,Bangalore,West,93,482512,24,Auto,239741,Construction
+2023-05-04,Delhi,West,99,191910,6,Private Vehicle,282057,Vehicular
+2023-09-27,Bangalore,North,228,121222,4,Metro,143182,Vehicular
+2023-08-23,Delhi,North,273,136824,5,Private Vehicle,141499,Construction
+2023-09-12,Delhi,West,290,704707,15,Auto,185713,Dust
+2023-11-09,Mumbai,South,192,614189,4,Metro,283681,Vehicular
+2023-06-11,Bangalore,East,137,758895,3,Bus,220788,Dust
+2023-04-19,Delhi,West,161,330856,22,Auto,65735,Industrial
+2023-12-19,Delhi,North,212,513009,20,Metro,260217,Vehicular
+2024-04-18,Bangalore,South,81,694164,3,Bus,58871,Industrial
+2023-10-31,Delhi,North,316,775610,25,Private Vehicle,174283,Industrial
+2024-04-17,Bangalore,West,265,136664,14,Private Vehicle,142822,Construction
+2023-12-27,Bangalore,East,319,643880,11,Metro,204760,Dust
+2023-02-26,Mumbai,North,129,431292,7,Auto,233887,Industrial
+2024-06-19,Mumbai,South,122,455984,14,Private Vehicle,269944,Industrial
+2023-01-16,Mumbai,East,193,542932,6,Metro,119265,Industrial
+2024-04-11,Delhi,West,233,493472,19,Bus,269433,Vehicular
+2024-03-02,Delhi,North,219,364422,10,Private Vehicle,285204,Construction
+2024-06-16,Delhi,East,128,413947,10,Auto,211026,Dust
+2023-04-18,Delhi,North,164,689384,1,Metro,79387,Industrial
+2024-04-09,Delhi,West,235,266688,6,Private Vehicle,60886,Industrial
+2023-08-16,Bangalore,North,214,545472,18,Private Vehicle,100261,Construction
+2023-02-27,Delhi,East,298,498879,18,Auto,151247,Vehicular
+2024-06-18,Bangalore,North,270,242840,8,Private Vehicle,100916,Dust
+2023-11-06,Mumbai,East,358,423458,10,Private Vehicle,214701,Construction
+2024-06-02,Delhi,East,195,614488,3,Metro,277734,Construction
+2024-01-22,Mumbai,East,322,279053,14,Bus,293102,Dust
+2024-02-04,Delhi,East,312,417736,24,Private Vehicle,162704,Dust
+2023-03-01,Delhi,West,222,782200,14,Private Vehicle,291705,Construction
+2024-04-25,Mumbai,West,393,660975,12,Bus,291599,Industrial
+2024-01-21,Mumbai,North,207,301340,3,Metro,124179,Dust
+2023-01-28,Mumbai,South,100,136163,2,Auto,232291,Construction
+2024-01-14,Mumbai,East,138,184448,22,Private Vehicle,155947,Vehicular
+2024-02-08,Mumbai,South,101,699155,21,Metro,140429,Dust
+2023-01-31,Bangalore,South,277,159061,15,Private Vehicle,216128,Vehicular
+2024-04-01,Mumbai,North,342,139135,15,Private Vehicle,217134,Industrial
+2023-02-09,Mumbai,South,258,580729,8,Bus,273646,Dust
+2023-01-09,Bangalore,West,113,450830,2,Metro,131288,Dust
+2023-07-15,Delhi,South,197,650521,11,Private Vehicle,238639,Industrial
+2023-08-27,Delhi,West,226,517840,9,Metro,278836,Vehicular
+2023-01-20,Bangalore,East,256,773894,17,Metro,110810,Industrial
+2024-05-18,Bangalore,East,293,236852,18,Private Vehicle,158955,Vehicular
+2023-11-10,Mumbai,North,271,215367,2,Bus,194282,Construction
+2024-04-23,Mumbai,East,114,773018,6,Bus,268407,Construction
+2024-01-21,Delhi,South,212,603375,3,Bus,257794,Dust
+2023-04-03,Bangalore,West,374,618582,17,Metro,275826,Construction
+2024-04-02,Bangalore,East,338,259825,23,Private Vehicle,248693,Construction
+2023-11-12,Mumbai,South,288,790825,7,Auto,274730,Construction
+2023-02-23,Mumbai,West,158,252314,24,Bus,121087,Industrial
+2023-12-22,Mumbai,South,400,196118,3,Auto,272192,Vehicular
+2024-03-08,Bangalore,South,213,763643,16,Metro,160109,Vehicular
+2023-09-12,Bangalore,East,259,411796,17,Metro,258263,Dust
+2024-02-13,Delhi,West,309,583554,24,Private Vehicle,244820,Construction
+2023-10-31,Bangalore,West,283,724613,23,Bus,282086,Vehicular
+2023-02-21,Delhi,West,91,225779,3,Auto,59578,Dust
+2023-09-22,Delhi,South,234,418273,18,Private Vehicle,243524,Industrial
+2023-09-28,Delhi,West,183,662186,12,Metro,222363,Industrial
+2024-02-16,Bangalore,East,221,212082,23,Bus,112533,Industrial
+2023-07-04,Delhi,East,228,758836,2,Auto,111103,Construction
+2024-03-19,Mumbai,East,194,369602,19,Auto,95463,Industrial
+2023-03-18,Bangalore,West,329,215528,14,Metro,263895,Industrial
+2023-05-18,Bangalore,West,139,797563,2,Private Vehicle,172155,Industrial
+2024-05-08,Delhi,West,132,551132,19,Auto,290563,Industrial
+2023-02-13,Mumbai,East,146,605602,9,Metro,214041,Industrial
+2023-07-22,Mumbai,East,360,372418,4,Private Vehicle,115655,Vehicular
+2023-09-12,Bangalore,West,190,245128,23,Private Vehicle,228137,Vehicular
